@@ -12,7 +12,7 @@ namespace cse210_01
         {
             Console.WriteLine("Player 1: X and Player 2: O");
 
-            Console.WriteLine("Testing my repository");
         }
-        
+    }
+}
 
