@@ -25,11 +25,11 @@ namespace cse210_01
                 // Checks whos turn it it and if no ones won yet
                 if (player % 2 == 0)
                 {
-                    Console.WriteLine("X's turn to choose a square (1-9): ");
+                    Console.WriteLine("O's turn to choose a square (1-9): ");
                 }
                 else
                 {
-                    Console.WriteLine("O's turn to choose a square (1-9): ");
+                    Console.WriteLine("X's turn to choose a square (1-9): ");
                 }
                 Console.WriteLine("\n");
                 // Calls the board
