@@ -1,0 +1,16 @@
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01.deps.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01.runtimeconfig.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01.runtimeconfig.dev.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/bin/Debug/net5.0/cse210-01.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.csproj.AssemblyReference.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.AssemblyInfoInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.AssemblyInfo.cs
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.csproj.CoreCompileInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/refint/cse210-01.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/cse210-01.genruntimeconfig.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-01/obj/Debug/net5.0/ref/cse210-01.dll
