@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Name:
+//  Carter Brown
+// Assignment:
+//  CSE 210-01, Tic-Tac-Toe
+
+using System;
 using System.Threading;
 
 namespace cse210_01
